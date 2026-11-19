@@ -1,0 +1,66 @@
+{
+  "name": "Bubblegum Dream",
+  "description": "A soft pastel bubblegum-pink theme set with lilac, peach, mint, periwinkle and butter accents.",
+  "ui": {
+    "background": "#fdf2f5",
+    "surface": "#fffafb",
+    "elevated": "#ffffff",
+    "sidebar": "#fae6ec",
+    "activityBar": "#f7dbe4",
+    "statusBar": "#f2c9d6",
+    "foreground": "#3d2a33",
+    "muted": "#85677a",
+    "subtle": "#a48a98",
+    "line": "#f1d9e2",
+    "lineSoft": "#f6e6ec",
+    "highlight": "#fbe3ec",
+    "highlightSoft": "#fdeef3",
+    "selection": "#f7cfe0",
+    "bubblegum": "#d6478c",
+    "bubblegumLight": "#f59ac2"
+  },
+  "syntax": {
+    "bubblegum": "#c03a79",
+    "rose": "#a84670",
+    "lilac": "#8257ad",
+    "peach": "#a85626",
+    "mint": "#277a62",
+    "periwinkle": "#4f63bd",
+    "butter": "#86650a",
+    "coral": "#c23a4b",
+    "teal": "#277883",
+    "comment": "#8f7383"
+  },
+  "status": {
+    "info": "#8e9be6",
+    "success": "#5fb88a",
+    "warning": "#f2a65a",
+    "error": "#dd4f5f"
+  },
+  "charts": [
+    "#e86aa6", "#b48ccf", "#f4a98a", "#7fc4b8", "#9aa8e8", "#f2cf6b",
+    "#f59ac2", "#c9a7e8", "#8fd0a2", "#f7b7d2", "#a3c4f0", "#d98aa8"
+  ],
+  "terminal": {
+    "background": "#fdf2f5",
+    "foreground": "#3d2a33",
+    "cursor": "#d6478c",
+    "selection": "#f7cfe0",
+    "black": "#3d2a33",
+    "red": "#c23a4b",
+    "green": "#277a62",
+    "yellow": "#86650a",
+    "blue": "#4f63bd",
+    "purple": "#8257ad",
+    "cyan": "#277883",
+    "white": "#e9d3dc",
+    "brightBlack": "#85677a",
+    "brightRed": "#c03a79",
+    "brightGreen": "#3f9a7f",
+    "brightYellow": "#a85626",
+    "brightBlue": "#6f80d6",
+    "brightPurple": "#a07ac6",
+    "brightCyan": "#3f9aa6",
+    "brightWhite": "#fffafb"
+  }
+}
